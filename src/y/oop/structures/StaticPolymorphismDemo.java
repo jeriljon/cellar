@@ -1,4 +1,4 @@
-package b.oop.structures;
+package y.oop.structures;
 
 import org.w3c.dom.ls.LSOutput;
 

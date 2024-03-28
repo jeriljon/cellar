@@ -1,4 +1,4 @@
-package a.design.patterns;
+package x.design.patterns;
 
 /**
  * Prototype Design pattern is used when the creation of an object directly is costly or complex, for example, when it requires a lot of resources or time, like an object that comes from a database or API, or when it requires a significant amount of data to be initialized.

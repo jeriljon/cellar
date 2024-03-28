@@ -1,4 +1,4 @@
-package b.oop.structures;
+package y.oop.structures;
 
 /**
  *
