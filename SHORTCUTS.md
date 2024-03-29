@@ -14,3 +14,6 @@
 + Move a line below: Alt + DownArrow
 + Switch between files: Control + F6
 + Adding missing imports: Control + Shift + O
++ Content Assist/AutoComplete: Control + Space
++ View Elements/Functions in a class: Control + O
++ 
