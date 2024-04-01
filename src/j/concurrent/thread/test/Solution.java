@@ -1,4 +1,4 @@
-package j.concurrent.thread;
+package j.concurrent.thread.test;
 
 import java.math.BigInteger;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package j.concurrent.thread;
+package j.concurrent.thread.streams;
 
 import java.util.ArrayList;
 import java.util.HashSet;

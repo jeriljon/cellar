@@ -1,4 +1,4 @@
-package j.concurrent.thread;
+package j.concurrent.thread.basic;
 
 public class RunnableBasicDemo implements Runnable {
     public void run() {

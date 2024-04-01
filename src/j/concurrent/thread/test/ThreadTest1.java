@@ -1,4 +1,4 @@
-package j.concurrent.thread;
+package j.concurrent.thread.test;
 
 /**
  * Question: What is the result and does that change if lines n1 and n2 are tranposed
