@@ -16,4 +16,6 @@
 + Adding missing imports: Control + Shift + O
 + Content Assist/AutoComplete: Control + Space
 + View Elements/Functions in a class: Control + O
-+ 
+
+
+# IntelliJ 
