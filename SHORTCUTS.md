@@ -19,3 +19,10 @@
 
 
 # IntelliJ 
+
++ Collapse a method in a class: Command + .
++ File Switcher: Control + Tab
++ Run class: Control + Shift + R
++ Run last run class: Control + R
++ Comment a line: Command + /
++ Delete a line: Command + X

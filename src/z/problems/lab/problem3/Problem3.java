@@ -1,4 +1,4 @@
-package z.problems.lab;
+package z.problems.lab.problem3;
 
 import java.util.*;
 

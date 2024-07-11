@@ -5,7 +5,6 @@ public class ThreadEx {
 	private static int i;
 	public static void main(String[] args) throws InterruptedException {
 		Runnable r = () -> {
-			
 			for(i = 0; i < 100; i++) {
 				System.out.println(Thread.currentThread().getName() + " i is " + i);
 			}

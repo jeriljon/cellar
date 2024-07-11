@@ -1,4 +1,4 @@
-package z.problems.lab;
+package z.problems.lab.problem5;
 
 public class Problem5 {
 

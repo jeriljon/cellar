@@ -1,4 +1,4 @@
-package z.problems.lab;
+package z.problems.lab.problem4;
 
 /**
  * What is the result ?
