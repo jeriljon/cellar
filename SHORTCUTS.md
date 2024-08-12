@@ -2,7 +2,7 @@
 
 + Search: Control + 3
 + Search Advanced: Control + H
-+ Run Java class: Control + F11 [Windows]
++ Run Java class: Control + F11 [Windows], Shift + Control + R [Mac]
 + Delete Current Line: Command + D
 + Autocomplete: Control + Space
 + Go to Line: Control + L
