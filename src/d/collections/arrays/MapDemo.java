@@ -6,6 +6,7 @@ import java.util.Map;
 public class MapDemo {
 
     public static void main(String[] args) {
+    	
         // Creating a HashMap
         Map<String, Integer> ageMap = new HashMap<>();
         ageMap.put("John", 25);
